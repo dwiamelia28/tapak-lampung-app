@@ -1,0 +1,10 @@
+.dart_tool/
+build/
+.flutter-plugins*
+android/app/google-services.json
+lib/firebase_options.dart
+functions/node_modules/
+functions/lib/
+scripts/serviceAccountKey.json
+*.iml
+.idea/
